@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Video files (too large for git)
+*.mp4
+*.avi
+*.mov
+
+# Training data and results
+runs/*/
+data/frames/train/
+data/frames/val/
+data/frames/test/
+*.cache
+
+# Large data files
+*.npy
+*.zip
+
+# Session files
+sessions/
+
+# OS files
+.DS_Store
+Thumbs.db

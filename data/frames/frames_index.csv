@@ -1,0 +1,1823 @@
+path,label,split
+data\frames\val\correct\Copy of push up 1_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00005.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 1_f00005.jpg,correct,val
+data\frames\train\correct\Copy of push up 100_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 100_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 101_f00006.jpg,correct,train
+data\frames\test\correct\Copy of push up 102_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 102_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 113_f00006.jpg,correct,test
+data\frames\train\correct\Copy of push up 114_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 114_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 115_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 116_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 127_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 129_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 131_f00006.jpg,correct,train
+data\frames\test\correct\Copy of push up 132_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 132_f00006.jpg,correct,test
+data\frames\train\correct\Copy of push up 133_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 133_f00006.jpg,correct,train
+data\frames\test\correct\Copy of push up 134_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 134_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 135_f00005.jpg,correct,test
+data\frames\train\correct\Copy of push up 136_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 136_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 137_f00005.jpg,correct,train
+data\frames\test\correct\Copy of push up 138_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 138_f00006.jpg,correct,test
+data\frames\train\correct\Copy of push up 140_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 140_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 141_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 142_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 144_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 146_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 147_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 148_f00011.jpg,correct,train
+data\frames\val\correct\Copy of push up 162_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00005.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00006.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00007.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00008.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00005.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00006.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00007.jpg,correct,val
+data\frames\val\correct\Copy of push up 162_f00008.jpg,correct,val
+data\frames\train\correct\Copy of push up 163_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 163_f00008.jpg,correct,train
+data\frames\val\correct\Copy of push up 164_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00005.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00006.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00007.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00008.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00009.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00005.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00006.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00007.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00008.jpg,correct,val
+data\frames\val\correct\Copy of push up 164_f00009.jpg,correct,val
+data\frames\test\correct\Copy of push up 165_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00007.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00008.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00007.jpg,correct,test
+data\frames\test\correct\Copy of push up 165_f00008.jpg,correct,test
+data\frames\val\correct\Copy of push up 173_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00005.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00006.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00007.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00008.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00009.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00010.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00011.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00012.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00000.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00001.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00002.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00003.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00004.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00005.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00006.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00007.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00008.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00009.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00010.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00011.jpg,correct,val
+data\frames\val\correct\Copy of push up 173_f00012.jpg,correct,val
+data\frames\train\correct\Copy of push up 174_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 174_f00010.jpg,correct,train
+data\frames\test\correct\Copy of push up 175_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00007.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00008.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00009.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00006.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00007.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00008.jpg,correct,test
+data\frames\test\correct\Copy of push up 175_f00009.jpg,correct,test
+data\frames\train\correct\Copy of push up 177_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 177_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 178_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 186_f00005.jpg,correct,train
+data\frames\test\correct\Copy of push up 187_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00005.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00000.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00001.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00002.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00003.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00004.jpg,correct,test
+data\frames\test\correct\Copy of push up 187_f00005.jpg,correct,test
+data\frames\train\correct\Copy of push up 188_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 188_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 197_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 2_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 3_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 4_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 47_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 5_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 6_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 7_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 78_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 79_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00013.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00006.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00007.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00008.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00009.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00010.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00011.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00012.jpg,correct,train
+data\frames\train\correct\Copy of push up 80_f00013.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 83_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00005.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00000.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00001.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00002.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00003.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00004.jpg,correct,train
+data\frames\train\correct\Copy of push up 85_f00005.jpg,correct,train
+data\frames\train\incorrect\1_f00000.jpg,incorrect,train
+data\frames\train\incorrect\1_f00001.jpg,incorrect,train
+data\frames\train\incorrect\1_f00002.jpg,incorrect,train
+data\frames\train\incorrect\1_f00003.jpg,incorrect,train
+data\frames\train\incorrect\1_f00004.jpg,incorrect,train
+data\frames\train\incorrect\1_f00005.jpg,incorrect,train
+data\frames\train\incorrect\1_f00006.jpg,incorrect,train
+data\frames\train\incorrect\1_f00007.jpg,incorrect,train
+data\frames\train\incorrect\1_f00008.jpg,incorrect,train
+data\frames\train\incorrect\1_f00009.jpg,incorrect,train
+data\frames\train\incorrect\1_f00010.jpg,incorrect,train
+data\frames\train\incorrect\1_f00011.jpg,incorrect,train
+data\frames\train\incorrect\1_f00012.jpg,incorrect,train
+data\frames\train\incorrect\1_f00013.jpg,incorrect,train
+data\frames\train\incorrect\1_f00014.jpg,incorrect,train
+data\frames\train\incorrect\1_f00015.jpg,incorrect,train
+data\frames\train\incorrect\1_f00016.jpg,incorrect,train
+data\frames\train\incorrect\1_f00017.jpg,incorrect,train
+data\frames\train\incorrect\1_f00018.jpg,incorrect,train
+data\frames\train\incorrect\1_f00019.jpg,incorrect,train
+data\frames\train\incorrect\1_f00000.jpg,incorrect,train
+data\frames\train\incorrect\1_f00001.jpg,incorrect,train
+data\frames\train\incorrect\1_f00002.jpg,incorrect,train
+data\frames\train\incorrect\1_f00003.jpg,incorrect,train
+data\frames\train\incorrect\1_f00004.jpg,incorrect,train
+data\frames\train\incorrect\1_f00005.jpg,incorrect,train
+data\frames\train\incorrect\1_f00006.jpg,incorrect,train
+data\frames\train\incorrect\1_f00007.jpg,incorrect,train
+data\frames\train\incorrect\1_f00008.jpg,incorrect,train
+data\frames\train\incorrect\1_f00009.jpg,incorrect,train
+data\frames\train\incorrect\1_f00010.jpg,incorrect,train
+data\frames\train\incorrect\1_f00011.jpg,incorrect,train
+data\frames\train\incorrect\1_f00012.jpg,incorrect,train
+data\frames\train\incorrect\1_f00013.jpg,incorrect,train
+data\frames\train\incorrect\1_f00014.jpg,incorrect,train
+data\frames\train\incorrect\1_f00015.jpg,incorrect,train
+data\frames\train\incorrect\1_f00016.jpg,incorrect,train
+data\frames\train\incorrect\1_f00017.jpg,incorrect,train
+data\frames\train\incorrect\1_f00018.jpg,incorrect,train
+data\frames\train\incorrect\1_f00019.jpg,incorrect,train
+data\frames\train\incorrect\10_f00000.jpg,incorrect,train
+data\frames\train\incorrect\10_f00001.jpg,incorrect,train
+data\frames\train\incorrect\10_f00002.jpg,incorrect,train
+data\frames\train\incorrect\10_f00003.jpg,incorrect,train
+data\frames\train\incorrect\10_f00004.jpg,incorrect,train
+data\frames\train\incorrect\10_f00005.jpg,incorrect,train
+data\frames\train\incorrect\10_f00006.jpg,incorrect,train
+data\frames\train\incorrect\10_f00007.jpg,incorrect,train
+data\frames\train\incorrect\10_f00008.jpg,incorrect,train
+data\frames\train\incorrect\10_f00000.jpg,incorrect,train
+data\frames\train\incorrect\10_f00001.jpg,incorrect,train
+data\frames\train\incorrect\10_f00002.jpg,incorrect,train
+data\frames\train\incorrect\10_f00003.jpg,incorrect,train
+data\frames\train\incorrect\10_f00004.jpg,incorrect,train
+data\frames\train\incorrect\10_f00005.jpg,incorrect,train
+data\frames\train\incorrect\10_f00006.jpg,incorrect,train
+data\frames\train\incorrect\10_f00007.jpg,incorrect,train
+data\frames\train\incorrect\10_f00008.jpg,incorrect,train
+data\frames\train\incorrect\11_f00000.jpg,incorrect,train
+data\frames\train\incorrect\11_f00001.jpg,incorrect,train
+data\frames\train\incorrect\11_f00002.jpg,incorrect,train
+data\frames\train\incorrect\11_f00003.jpg,incorrect,train
+data\frames\train\incorrect\11_f00004.jpg,incorrect,train
+data\frames\train\incorrect\11_f00005.jpg,incorrect,train
+data\frames\train\incorrect\11_f00000.jpg,incorrect,train
+data\frames\train\incorrect\11_f00001.jpg,incorrect,train
+data\frames\train\incorrect\11_f00002.jpg,incorrect,train
+data\frames\train\incorrect\11_f00003.jpg,incorrect,train
+data\frames\train\incorrect\11_f00004.jpg,incorrect,train
+data\frames\train\incorrect\11_f00005.jpg,incorrect,train
+data\frames\val\incorrect\12_f00000.jpg,incorrect,val
+data\frames\val\incorrect\12_f00001.jpg,incorrect,val
+data\frames\val\incorrect\12_f00002.jpg,incorrect,val
+data\frames\val\incorrect\12_f00003.jpg,incorrect,val
+data\frames\val\incorrect\12_f00004.jpg,incorrect,val
+data\frames\val\incorrect\12_f00005.jpg,incorrect,val
+data\frames\val\incorrect\12_f00006.jpg,incorrect,val
+data\frames\val\incorrect\12_f00007.jpg,incorrect,val
+data\frames\val\incorrect\12_f00008.jpg,incorrect,val
+data\frames\val\incorrect\12_f00000.jpg,incorrect,val
+data\frames\val\incorrect\12_f00001.jpg,incorrect,val
+data\frames\val\incorrect\12_f00002.jpg,incorrect,val
+data\frames\val\incorrect\12_f00003.jpg,incorrect,val
+data\frames\val\incorrect\12_f00004.jpg,incorrect,val
+data\frames\val\incorrect\12_f00005.jpg,incorrect,val
+data\frames\val\incorrect\12_f00006.jpg,incorrect,val
+data\frames\val\incorrect\12_f00007.jpg,incorrect,val
+data\frames\val\incorrect\12_f00008.jpg,incorrect,val
+data\frames\test\incorrect\13_f00000.jpg,incorrect,test
+data\frames\test\incorrect\13_f00001.jpg,incorrect,test
+data\frames\test\incorrect\13_f00002.jpg,incorrect,test
+data\frames\test\incorrect\13_f00003.jpg,incorrect,test
+data\frames\test\incorrect\13_f00004.jpg,incorrect,test
+data\frames\test\incorrect\13_f00005.jpg,incorrect,test
+data\frames\test\incorrect\13_f00006.jpg,incorrect,test
+data\frames\test\incorrect\13_f00007.jpg,incorrect,test
+data\frames\test\incorrect\13_f00008.jpg,incorrect,test
+data\frames\test\incorrect\13_f00000.jpg,incorrect,test
+data\frames\test\incorrect\13_f00001.jpg,incorrect,test
+data\frames\test\incorrect\13_f00002.jpg,incorrect,test
+data\frames\test\incorrect\13_f00003.jpg,incorrect,test
+data\frames\test\incorrect\13_f00004.jpg,incorrect,test
+data\frames\test\incorrect\13_f00005.jpg,incorrect,test
+data\frames\test\incorrect\13_f00006.jpg,incorrect,test
+data\frames\test\incorrect\13_f00007.jpg,incorrect,test
+data\frames\test\incorrect\13_f00008.jpg,incorrect,test
+data\frames\train\incorrect\14_f00000.jpg,incorrect,train
+data\frames\train\incorrect\14_f00001.jpg,incorrect,train
+data\frames\train\incorrect\14_f00002.jpg,incorrect,train
+data\frames\train\incorrect\14_f00003.jpg,incorrect,train
+data\frames\train\incorrect\14_f00004.jpg,incorrect,train
+data\frames\train\incorrect\14_f00005.jpg,incorrect,train
+data\frames\train\incorrect\14_f00006.jpg,incorrect,train
+data\frames\train\incorrect\14_f00007.jpg,incorrect,train
+data\frames\train\incorrect\14_f00008.jpg,incorrect,train
+data\frames\train\incorrect\14_f00000.jpg,incorrect,train
+data\frames\train\incorrect\14_f00001.jpg,incorrect,train
+data\frames\train\incorrect\14_f00002.jpg,incorrect,train
+data\frames\train\incorrect\14_f00003.jpg,incorrect,train
+data\frames\train\incorrect\14_f00004.jpg,incorrect,train
+data\frames\train\incorrect\14_f00005.jpg,incorrect,train
+data\frames\train\incorrect\14_f00006.jpg,incorrect,train
+data\frames\train\incorrect\14_f00007.jpg,incorrect,train
+data\frames\train\incorrect\14_f00008.jpg,incorrect,train
+data\frames\train\incorrect\15_f00000.jpg,incorrect,train
+data\frames\train\incorrect\15_f00001.jpg,incorrect,train
+data\frames\train\incorrect\15_f00002.jpg,incorrect,train
+data\frames\train\incorrect\15_f00003.jpg,incorrect,train
+data\frames\train\incorrect\15_f00004.jpg,incorrect,train
+data\frames\train\incorrect\15_f00005.jpg,incorrect,train
+data\frames\train\incorrect\15_f00006.jpg,incorrect,train
+data\frames\train\incorrect\15_f00000.jpg,incorrect,train
+data\frames\train\incorrect\15_f00001.jpg,incorrect,train
+data\frames\train\incorrect\15_f00002.jpg,incorrect,train
+data\frames\train\incorrect\15_f00003.jpg,incorrect,train
+data\frames\train\incorrect\15_f00004.jpg,incorrect,train
+data\frames\train\incorrect\15_f00005.jpg,incorrect,train
+data\frames\train\incorrect\15_f00006.jpg,incorrect,train
+data\frames\val\incorrect\16_f00000.jpg,incorrect,val
+data\frames\val\incorrect\16_f00001.jpg,incorrect,val
+data\frames\val\incorrect\16_f00002.jpg,incorrect,val
+data\frames\val\incorrect\16_f00003.jpg,incorrect,val
+data\frames\val\incorrect\16_f00004.jpg,incorrect,val
+data\frames\val\incorrect\16_f00005.jpg,incorrect,val
+data\frames\val\incorrect\16_f00006.jpg,incorrect,val
+data\frames\val\incorrect\16_f00000.jpg,incorrect,val
+data\frames\val\incorrect\16_f00001.jpg,incorrect,val
+data\frames\val\incorrect\16_f00002.jpg,incorrect,val
+data\frames\val\incorrect\16_f00003.jpg,incorrect,val
+data\frames\val\incorrect\16_f00004.jpg,incorrect,val
+data\frames\val\incorrect\16_f00005.jpg,incorrect,val
+data\frames\val\incorrect\16_f00006.jpg,incorrect,val
+data\frames\train\incorrect\17_f00000.jpg,incorrect,train
+data\frames\train\incorrect\17_f00001.jpg,incorrect,train
+data\frames\train\incorrect\17_f00002.jpg,incorrect,train
+data\frames\train\incorrect\17_f00003.jpg,incorrect,train
+data\frames\train\incorrect\17_f00004.jpg,incorrect,train
+data\frames\train\incorrect\17_f00005.jpg,incorrect,train
+data\frames\train\incorrect\17_f00006.jpg,incorrect,train
+data\frames\train\incorrect\17_f00007.jpg,incorrect,train
+data\frames\train\incorrect\17_f00000.jpg,incorrect,train
+data\frames\train\incorrect\17_f00001.jpg,incorrect,train
+data\frames\train\incorrect\17_f00002.jpg,incorrect,train
+data\frames\train\incorrect\17_f00003.jpg,incorrect,train
+data\frames\train\incorrect\17_f00004.jpg,incorrect,train
+data\frames\train\incorrect\17_f00005.jpg,incorrect,train
+data\frames\train\incorrect\17_f00006.jpg,incorrect,train
+data\frames\train\incorrect\17_f00007.jpg,incorrect,train
+data\frames\train\incorrect\18_f00000.jpg,incorrect,train
+data\frames\train\incorrect\18_f00001.jpg,incorrect,train
+data\frames\train\incorrect\18_f00002.jpg,incorrect,train
+data\frames\train\incorrect\18_f00003.jpg,incorrect,train
+data\frames\train\incorrect\18_f00004.jpg,incorrect,train
+data\frames\train\incorrect\18_f00005.jpg,incorrect,train
+data\frames\train\incorrect\18_f00006.jpg,incorrect,train
+data\frames\train\incorrect\18_f00007.jpg,incorrect,train
+data\frames\train\incorrect\18_f00008.jpg,incorrect,train
+data\frames\train\incorrect\18_f00009.jpg,incorrect,train
+data\frames\train\incorrect\18_f00010.jpg,incorrect,train
+data\frames\train\incorrect\18_f00000.jpg,incorrect,train
+data\frames\train\incorrect\18_f00001.jpg,incorrect,train
+data\frames\train\incorrect\18_f00002.jpg,incorrect,train
+data\frames\train\incorrect\18_f00003.jpg,incorrect,train
+data\frames\train\incorrect\18_f00004.jpg,incorrect,train
+data\frames\train\incorrect\18_f00005.jpg,incorrect,train
+data\frames\train\incorrect\18_f00006.jpg,incorrect,train
+data\frames\train\incorrect\18_f00007.jpg,incorrect,train
+data\frames\train\incorrect\18_f00008.jpg,incorrect,train
+data\frames\train\incorrect\18_f00009.jpg,incorrect,train
+data\frames\train\incorrect\18_f00010.jpg,incorrect,train
+data\frames\train\incorrect\19_f00000.jpg,incorrect,train
+data\frames\train\incorrect\19_f00001.jpg,incorrect,train
+data\frames\train\incorrect\19_f00002.jpg,incorrect,train
+data\frames\train\incorrect\19_f00003.jpg,incorrect,train
+data\frames\train\incorrect\19_f00004.jpg,incorrect,train
+data\frames\train\incorrect\19_f00005.jpg,incorrect,train
+data\frames\train\incorrect\19_f00006.jpg,incorrect,train
+data\frames\train\incorrect\19_f00007.jpg,incorrect,train
+data\frames\train\incorrect\19_f00008.jpg,incorrect,train
+data\frames\train\incorrect\19_f00000.jpg,incorrect,train
+data\frames\train\incorrect\19_f00001.jpg,incorrect,train
+data\frames\train\incorrect\19_f00002.jpg,incorrect,train
+data\frames\train\incorrect\19_f00003.jpg,incorrect,train
+data\frames\train\incorrect\19_f00004.jpg,incorrect,train
+data\frames\train\incorrect\19_f00005.jpg,incorrect,train
+data\frames\train\incorrect\19_f00006.jpg,incorrect,train
+data\frames\train\incorrect\19_f00007.jpg,incorrect,train
+data\frames\train\incorrect\19_f00008.jpg,incorrect,train
+data\frames\train\incorrect\2_f00000.jpg,incorrect,train
+data\frames\train\incorrect\2_f00001.jpg,incorrect,train
+data\frames\train\incorrect\2_f00002.jpg,incorrect,train
+data\frames\train\incorrect\2_f00003.jpg,incorrect,train
+data\frames\train\incorrect\2_f00004.jpg,incorrect,train
+data\frames\train\incorrect\2_f00005.jpg,incorrect,train
+data\frames\train\incorrect\2_f00006.jpg,incorrect,train
+data\frames\train\incorrect\2_f00007.jpg,incorrect,train
+data\frames\train\incorrect\2_f00008.jpg,incorrect,train
+data\frames\train\incorrect\2_f00009.jpg,incorrect,train
+data\frames\train\incorrect\2_f00010.jpg,incorrect,train
+data\frames\train\incorrect\2_f00000.jpg,incorrect,train
+data\frames\train\incorrect\2_f00001.jpg,incorrect,train
+data\frames\train\incorrect\2_f00002.jpg,incorrect,train
+data\frames\train\incorrect\2_f00003.jpg,incorrect,train
+data\frames\train\incorrect\2_f00004.jpg,incorrect,train
+data\frames\train\incorrect\2_f00005.jpg,incorrect,train
+data\frames\train\incorrect\2_f00006.jpg,incorrect,train
+data\frames\train\incorrect\2_f00007.jpg,incorrect,train
+data\frames\train\incorrect\2_f00008.jpg,incorrect,train
+data\frames\train\incorrect\2_f00009.jpg,incorrect,train
+data\frames\train\incorrect\2_f00010.jpg,incorrect,train
+data\frames\train\incorrect\20_f00000.jpg,incorrect,train
+data\frames\train\incorrect\20_f00001.jpg,incorrect,train
+data\frames\train\incorrect\20_f00002.jpg,incorrect,train
+data\frames\train\incorrect\20_f00003.jpg,incorrect,train
+data\frames\train\incorrect\20_f00004.jpg,incorrect,train
+data\frames\train\incorrect\20_f00005.jpg,incorrect,train
+data\frames\train\incorrect\20_f00006.jpg,incorrect,train
+data\frames\train\incorrect\20_f00000.jpg,incorrect,train
+data\frames\train\incorrect\20_f00001.jpg,incorrect,train
+data\frames\train\incorrect\20_f00002.jpg,incorrect,train
+data\frames\train\incorrect\20_f00003.jpg,incorrect,train
+data\frames\train\incorrect\20_f00004.jpg,incorrect,train
+data\frames\train\incorrect\20_f00005.jpg,incorrect,train
+data\frames\train\incorrect\20_f00006.jpg,incorrect,train
+data\frames\train\incorrect\21_f00000.jpg,incorrect,train
+data\frames\train\incorrect\21_f00001.jpg,incorrect,train
+data\frames\train\incorrect\21_f00002.jpg,incorrect,train
+data\frames\train\incorrect\21_f00003.jpg,incorrect,train
+data\frames\train\incorrect\21_f00004.jpg,incorrect,train
+data\frames\train\incorrect\21_f00005.jpg,incorrect,train
+data\frames\train\incorrect\21_f00006.jpg,incorrect,train
+data\frames\train\incorrect\21_f00000.jpg,incorrect,train
+data\frames\train\incorrect\21_f00001.jpg,incorrect,train
+data\frames\train\incorrect\21_f00002.jpg,incorrect,train
+data\frames\train\incorrect\21_f00003.jpg,incorrect,train
+data\frames\train\incorrect\21_f00004.jpg,incorrect,train
+data\frames\train\incorrect\21_f00005.jpg,incorrect,train
+data\frames\train\incorrect\21_f00006.jpg,incorrect,train
+data\frames\val\incorrect\22_f00000.jpg,incorrect,val
+data\frames\val\incorrect\22_f00001.jpg,incorrect,val
+data\frames\val\incorrect\22_f00002.jpg,incorrect,val
+data\frames\val\incorrect\22_f00003.jpg,incorrect,val
+data\frames\val\incorrect\22_f00004.jpg,incorrect,val
+data\frames\val\incorrect\22_f00005.jpg,incorrect,val
+data\frames\val\incorrect\22_f00006.jpg,incorrect,val
+data\frames\val\incorrect\22_f00007.jpg,incorrect,val
+data\frames\val\incorrect\22_f00008.jpg,incorrect,val
+data\frames\val\incorrect\22_f00009.jpg,incorrect,val
+data\frames\val\incorrect\22_f00010.jpg,incorrect,val
+data\frames\val\incorrect\22_f00011.jpg,incorrect,val
+data\frames\val\incorrect\22_f00012.jpg,incorrect,val
+data\frames\val\incorrect\22_f00013.jpg,incorrect,val
+data\frames\val\incorrect\22_f00014.jpg,incorrect,val
+data\frames\val\incorrect\22_f00015.jpg,incorrect,val
+data\frames\val\incorrect\22_f00016.jpg,incorrect,val
+data\frames\val\incorrect\22_f00000.jpg,incorrect,val
+data\frames\val\incorrect\22_f00001.jpg,incorrect,val
+data\frames\val\incorrect\22_f00002.jpg,incorrect,val
+data\frames\val\incorrect\22_f00003.jpg,incorrect,val
+data\frames\val\incorrect\22_f00004.jpg,incorrect,val
+data\frames\val\incorrect\22_f00005.jpg,incorrect,val
+data\frames\val\incorrect\22_f00006.jpg,incorrect,val
+data\frames\val\incorrect\22_f00007.jpg,incorrect,val
+data\frames\val\incorrect\22_f00008.jpg,incorrect,val
+data\frames\val\incorrect\22_f00009.jpg,incorrect,val
+data\frames\val\incorrect\22_f00010.jpg,incorrect,val
+data\frames\val\incorrect\22_f00011.jpg,incorrect,val
+data\frames\val\incorrect\22_f00012.jpg,incorrect,val
+data\frames\val\incorrect\22_f00013.jpg,incorrect,val
+data\frames\val\incorrect\22_f00014.jpg,incorrect,val
+data\frames\val\incorrect\22_f00015.jpg,incorrect,val
+data\frames\val\incorrect\22_f00016.jpg,incorrect,val
+data\frames\train\incorrect\23_f00000.jpg,incorrect,train
+data\frames\train\incorrect\23_f00001.jpg,incorrect,train
+data\frames\train\incorrect\23_f00002.jpg,incorrect,train
+data\frames\train\incorrect\23_f00003.jpg,incorrect,train
+data\frames\train\incorrect\23_f00004.jpg,incorrect,train
+data\frames\train\incorrect\23_f00005.jpg,incorrect,train
+data\frames\train\incorrect\23_f00006.jpg,incorrect,train
+data\frames\train\incorrect\23_f00007.jpg,incorrect,train
+data\frames\train\incorrect\23_f00008.jpg,incorrect,train
+data\frames\train\incorrect\23_f00000.jpg,incorrect,train
+data\frames\train\incorrect\23_f00001.jpg,incorrect,train
+data\frames\train\incorrect\23_f00002.jpg,incorrect,train
+data\frames\train\incorrect\23_f00003.jpg,incorrect,train
+data\frames\train\incorrect\23_f00004.jpg,incorrect,train
+data\frames\train\incorrect\23_f00005.jpg,incorrect,train
+data\frames\train\incorrect\23_f00006.jpg,incorrect,train
+data\frames\train\incorrect\23_f00007.jpg,incorrect,train
+data\frames\train\incorrect\23_f00008.jpg,incorrect,train
+data\frames\train\incorrect\3_f00000.jpg,incorrect,train
+data\frames\train\incorrect\3_f00001.jpg,incorrect,train
+data\frames\train\incorrect\3_f00002.jpg,incorrect,train
+data\frames\train\incorrect\3_f00003.jpg,incorrect,train
+data\frames\train\incorrect\3_f00004.jpg,incorrect,train
+data\frames\train\incorrect\3_f00005.jpg,incorrect,train
+data\frames\train\incorrect\3_f00006.jpg,incorrect,train
+data\frames\train\incorrect\3_f00000.jpg,incorrect,train
+data\frames\train\incorrect\3_f00001.jpg,incorrect,train
+data\frames\train\incorrect\3_f00002.jpg,incorrect,train
+data\frames\train\incorrect\3_f00003.jpg,incorrect,train
+data\frames\train\incorrect\3_f00004.jpg,incorrect,train
+data\frames\train\incorrect\3_f00005.jpg,incorrect,train
+data\frames\train\incorrect\3_f00006.jpg,incorrect,train
+data\frames\train\incorrect\4_f00000.jpg,incorrect,train
+data\frames\train\incorrect\4_f00001.jpg,incorrect,train
+data\frames\train\incorrect\4_f00002.jpg,incorrect,train
+data\frames\train\incorrect\4_f00003.jpg,incorrect,train
+data\frames\train\incorrect\4_f00004.jpg,incorrect,train
+data\frames\train\incorrect\4_f00000.jpg,incorrect,train
+data\frames\train\incorrect\4_f00001.jpg,incorrect,train
+data\frames\train\incorrect\4_f00002.jpg,incorrect,train
+data\frames\train\incorrect\4_f00003.jpg,incorrect,train
+data\frames\train\incorrect\4_f00004.jpg,incorrect,train
+data\frames\train\incorrect\5_f00000.jpg,incorrect,train
+data\frames\train\incorrect\5_f00001.jpg,incorrect,train
+data\frames\train\incorrect\5_f00002.jpg,incorrect,train
+data\frames\train\incorrect\5_f00003.jpg,incorrect,train
+data\frames\train\incorrect\5_f00004.jpg,incorrect,train
+data\frames\train\incorrect\5_f00005.jpg,incorrect,train
+data\frames\train\incorrect\5_f00006.jpg,incorrect,train
+data\frames\train\incorrect\5_f00007.jpg,incorrect,train
+data\frames\train\incorrect\5_f00000.jpg,incorrect,train
+data\frames\train\incorrect\5_f00001.jpg,incorrect,train
+data\frames\train\incorrect\5_f00002.jpg,incorrect,train
+data\frames\train\incorrect\5_f00003.jpg,incorrect,train
+data\frames\train\incorrect\5_f00004.jpg,incorrect,train
+data\frames\train\incorrect\5_f00005.jpg,incorrect,train
+data\frames\train\incorrect\5_f00006.jpg,incorrect,train
+data\frames\train\incorrect\5_f00007.jpg,incorrect,train
+data\frames\test\incorrect\6_f00000.jpg,incorrect,test
+data\frames\test\incorrect\6_f00001.jpg,incorrect,test
+data\frames\test\incorrect\6_f00002.jpg,incorrect,test
+data\frames\test\incorrect\6_f00003.jpg,incorrect,test
+data\frames\test\incorrect\6_f00004.jpg,incorrect,test
+data\frames\test\incorrect\6_f00005.jpg,incorrect,test
+data\frames\test\incorrect\6_f00006.jpg,incorrect,test
+data\frames\test\incorrect\6_f00007.jpg,incorrect,test
+data\frames\test\incorrect\6_f00000.jpg,incorrect,test
+data\frames\test\incorrect\6_f00001.jpg,incorrect,test
+data\frames\test\incorrect\6_f00002.jpg,incorrect,test
+data\frames\test\incorrect\6_f00003.jpg,incorrect,test
+data\frames\test\incorrect\6_f00004.jpg,incorrect,test
+data\frames\test\incorrect\6_f00005.jpg,incorrect,test
+data\frames\test\incorrect\6_f00006.jpg,incorrect,test
+data\frames\test\incorrect\6_f00007.jpg,incorrect,test
+data\frames\train\incorrect\7_f00000.jpg,incorrect,train
+data\frames\train\incorrect\7_f00001.jpg,incorrect,train
+data\frames\train\incorrect\7_f00002.jpg,incorrect,train
+data\frames\train\incorrect\7_f00003.jpg,incorrect,train
+data\frames\train\incorrect\7_f00004.jpg,incorrect,train
+data\frames\train\incorrect\7_f00005.jpg,incorrect,train
+data\frames\train\incorrect\7_f00006.jpg,incorrect,train
+data\frames\train\incorrect\7_f00007.jpg,incorrect,train
+data\frames\train\incorrect\7_f00000.jpg,incorrect,train
+data\frames\train\incorrect\7_f00001.jpg,incorrect,train
+data\frames\train\incorrect\7_f00002.jpg,incorrect,train
+data\frames\train\incorrect\7_f00003.jpg,incorrect,train
+data\frames\train\incorrect\7_f00004.jpg,incorrect,train
+data\frames\train\incorrect\7_f00005.jpg,incorrect,train
+data\frames\train\incorrect\7_f00006.jpg,incorrect,train
+data\frames\train\incorrect\7_f00007.jpg,incorrect,train
+data\frames\val\incorrect\8_f00000.jpg,incorrect,val
+data\frames\val\incorrect\8_f00001.jpg,incorrect,val
+data\frames\val\incorrect\8_f00002.jpg,incorrect,val
+data\frames\val\incorrect\8_f00003.jpg,incorrect,val
+data\frames\val\incorrect\8_f00004.jpg,incorrect,val
+data\frames\val\incorrect\8_f00005.jpg,incorrect,val
+data\frames\val\incorrect\8_f00000.jpg,incorrect,val
+data\frames\val\incorrect\8_f00001.jpg,incorrect,val
+data\frames\val\incorrect\8_f00002.jpg,incorrect,val
+data\frames\val\incorrect\8_f00003.jpg,incorrect,val
+data\frames\val\incorrect\8_f00004.jpg,incorrect,val
+data\frames\val\incorrect\8_f00005.jpg,incorrect,val
+data\frames\train\incorrect\9_f00000.jpg,incorrect,train
+data\frames\train\incorrect\9_f00001.jpg,incorrect,train
+data\frames\train\incorrect\9_f00002.jpg,incorrect,train
+data\frames\train\incorrect\9_f00003.jpg,incorrect,train
+data\frames\train\incorrect\9_f00004.jpg,incorrect,train
+data\frames\train\incorrect\9_f00000.jpg,incorrect,train
+data\frames\train\incorrect\9_f00001.jpg,incorrect,train
+data\frames\train\incorrect\9_f00002.jpg,incorrect,train
+data\frames\train\incorrect\9_f00003.jpg,incorrect,train
+data\frames\train\incorrect\9_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00019.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 104_f00019.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00019.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 105_f00019.jpg,incorrect,train
+data\frames\test\incorrect\Copy of push up 107_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00005.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00006.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00005.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 107_f00006.jpg,incorrect,test
+data\frames\train\incorrect\Copy of push up 108_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00019.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 108_f00019.jpg,incorrect,train
+data\frames\val\incorrect\Copy of push up 110_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00009.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00010.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00011.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00012.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00013.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00014.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00015.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00016.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00017.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00009.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00010.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00011.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00012.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00013.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00014.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00015.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00016.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 110_f00017.jpg,incorrect,val
+data\frames\train\incorrect\Copy of push up 149_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00019.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00020.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00021.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00022.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00023.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00024.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00025.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00026.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00015.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00016.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00017.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00018.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00019.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00020.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00021.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00022.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00023.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00024.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00025.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 149_f00026.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 150_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 151_f00005.jpg,incorrect,train
+data\frames\test\incorrect\Copy of push up 152_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00005.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 152_f00005.jpg,incorrect,test
+data\frames\train\incorrect\Copy of push up 153_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 153_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 155_f00004.jpg,incorrect,train
+data\frames\val\incorrect\Copy of push up 156_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 156_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 156_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 156_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 156_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 156_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 156_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 156_f00003.jpg,incorrect,val
+data\frames\train\incorrect\Copy of push up 166_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00014.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00010.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00011.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00012.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00013.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 166_f00014.jpg,incorrect,train
+data\frames\test\incorrect\Copy of push up 167_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00005.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00006.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00007.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00005.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00006.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 167_f00007.jpg,incorrect,test
+data\frames\train\incorrect\Copy of push up 168_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 168_f00007.jpg,incorrect,train
+data\frames\val\incorrect\Copy of push up 171_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00009.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00010.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00011.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00012.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00013.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00014.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00015.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00016.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00017.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00018.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00019.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00020.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00021.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00022.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00023.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00024.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00025.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00026.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00027.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00028.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00029.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00030.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00031.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00032.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00033.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00009.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00010.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00011.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00012.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00013.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00014.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00015.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00016.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00017.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00018.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00019.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00020.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00021.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00022.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00023.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00024.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00025.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00026.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00027.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00028.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00029.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00030.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00031.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00032.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 171_f00033.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00009.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00010.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00011.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00012.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00013.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00014.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00015.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00016.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00017.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00009.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00010.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00011.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00012.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00013.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00014.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00015.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00016.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 198_f00017.jpg,incorrect,val
+data\frames\train\incorrect\Copy of push up 36_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 36_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 37_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00009.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 42_f00009.jpg,incorrect,train
+data\frames\val\incorrect\Copy of push up 44_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 44_f00008.jpg,incorrect,val
+data\frames\test\incorrect\Copy of push up 46_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00005.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00006.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00007.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00008.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00000.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00001.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00002.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00003.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00004.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00005.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00006.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00007.jpg,incorrect,test
+data\frames\test\incorrect\Copy of push up 46_f00008.jpg,incorrect,test
+data\frames\val\incorrect\Copy of push up 55_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00009.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00007.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00008.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 55_f00009.jpg,incorrect,val
+data\frames\train\incorrect\Copy of push up 56_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00008.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 56_f00008.jpg,incorrect,train
+data\frames\val\incorrect\Copy of push up 57_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00006.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00000.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00001.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00002.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00003.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00004.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00005.jpg,incorrect,val
+data\frames\val\incorrect\Copy of push up 57_f00006.jpg,incorrect,val
+data\frames\train\incorrect\Copy of push up 58_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 58_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00007.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00000.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00001.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00002.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00003.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00004.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00005.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00006.jpg,incorrect,train
+data\frames\train\incorrect\Copy of push up 81_f00007.jpg,incorrect,train

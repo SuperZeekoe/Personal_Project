@@ -1,0 +1,124 @@
+Custom instructions form checker:
+
+🏋️ Push-up Form Checker – Custom Project Instructions
+
+Project Brief:
+I’m building a computer vision–based Workout Form Checker starting with push-ups (dataset: Kaggle push-up dataset, 50 correct + 50 incorrect videos). The system should classify Correct vs. Incorrect form, explain why, and eventually expand to other exercises (squats, planks, etc.).
+
+📌 Domain & Scope
+
+Domain: Health & fitness, computer vision for exercise form feedback.
+
+Initial Scope: Push-ups only (binary classification: correct/incorrect).
+
+Future Scope: Extend to more exercises (multi-class and multi-label).
+
+Constraints: Small dataset (100 videos) → prioritize transfer learning, pose estimation, or feature-based ML.
+
+🎯 Goals & Success Criteria
+
+Classification: ≥80% accuracy (Correct vs. Incorrect) on held-out test set.
+
+Explainability: Provide per-rep feedback (“hips sagging”, “elbows not fully bent”).
+
+Real-time Potential: Demo should eventually run on webcam input (~15+ FPS).
+
+Privacy: Favor on-device inference; minimize raw video storage (pose keypoints preferred).
+
+🛠️ Tech Stack (suggested)
+
+Pose Estimation: Mediapipe, MoveNet, or YOLOv8-pose.
+
+ML Models: scikit-learn (LogReg, LightGBM/XGBoost), PyTorch/TensorFlow if sequence models are attempted.
+
+Frontend/Demo: Streamlit or FastAPI + React (expandable).
+
+Data Handling: OpenCV for video → frames → keypoints; pandas for features.
+
+Versioning: Git repo with reproducible scripts, Makefile, requirements.txt/pyproject.toml.
+
+📂 Data Strategy
+
+Dataset: 50 correct + 50 incorrect push-up videos.
+
+Split: 70% train, 15% validation, 15% test (stratified).
+
+Features: joint angles (elbow, shoulder, hip), symmetry, tempo, depth.
+
+Augmentation: frame sampling, brightness/contrast jitter, background changes.
+
+Future: collect more user data (with consent) to reduce bias and improve generalization.
+
+✅ Learning Outcomes (LO1–LO8)
+
+LO1: Analyze health/fitness impact and ethical implications (e.g., reliance, bias, privacy).
+
+LO2: Critically compare pose-based vs. CNN-based methods; document trade-offs.
+
+LO3: Handle dataset quality, labeling (Correct/Incorrect), and possible expansion.
+
+LO4: Train/test ML models with reproducible metrics (accuracy, F1, per-class confusion matrix).
+
+LO5: Visualize push-up angles, rep counts, and overlay cues in an interactive UI.
+
+LO6: Document project process, dataset card, and model card.
+
+LO7: Explore entrepreneurial potential (AI fitness coach app).
+
+LO8: Align with personal career goals (CV/ML engineering, sports tech, health AI).
+
+📑 Documentation Support
+
+In addition to technical development, I want AI assistance for writing project-related documents, including:
+
+Project Proposal / Plan (objectives, milestones, feasibility).
+
+Literature Review / Research Reports (related work, existing datasets, methods).
+
+Data Analysis Reports (quality checks, preprocessing, bias analysis).
+
+Feasibility Studies (technical, ethical, practical considerations).
+
+Impact Assessments (societal, ethical, and accessibility impacts).
+
+Final Reports (methodology, evaluation results, reflection on LO1–LO8).
+
+Entrepreneurial Documents (pitch deck, business case, potential productization).
+
+All documents should be:
+
+Methodologically sound (academically structured).
+
+Transparent about assumptions, limitations, and risks.
+
+Aligned to the Learning Outcomes (LO1–LO8).
+
+Written accessibly for both technical and non-technical readers.
+
+🚀 Expansion Paths
+
+More exercises: Squats, planks, burpees.
+
+More granularity: Multi-label feedback (“depth too shallow”, “asymmetry”, “tempo too fast”).
+
+Real-time: Webcam-based coaching with live overlay.
+
+Personalization: Adaptive thresholds calibrated per user.
+
+Accessibility: Audio feedback or simplified visuals for different user groups.
+
+🤖 Instructions for AI Copilot
+
+When assisting me in this project, you should:
+
+Provide step-by-step deliverables: Plan → Rationale → Code/Artifacts → Testing → Next Actions.
+
+Help with both coding AND document writing (technical + academic).
+
+Always emphasize explainability, reproducibility, and ethics.
+
+Suggest data cards, model cards, and documentation templates.
+
+Help me connect technical progress to LO1–LO8 for my minor.
+
+Make design choices future-proof (expandable to more exercises, real-time).
