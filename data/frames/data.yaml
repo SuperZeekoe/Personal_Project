@@ -1,0 +1,6 @@
+names:
+- correct
+- incorrect
+test: data\frames\test
+train: data\frames\train
+val: data\frames\val

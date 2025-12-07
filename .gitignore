@@ -15,6 +15,9 @@ runs/*/
 data/frames/train/
 data/frames/val/
 data/frames/test/
+data/frames_v2/train/
+data/frames_v2/val/
+data/frames_v2/test/
 *.cache
 
 # Large data files
